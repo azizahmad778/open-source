@@ -125,12 +125,12 @@ class __xxx__:
     def __init__(self):
         self.id = []
     def sarfrazx(self,id):
-        if 1 in fuck:
-            os.system('#')
-        else:
-            os.system("clear")
-            print ("\x1b[1;91mFuck Your Bypass System - Security By BNS Team")
-            exit()
+  
+       
+      
+         
+            
+
         os.system("clear")
         print(logo)
         self.cnt = input('Put File Name : ')

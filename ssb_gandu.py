@@ -96,12 +96,12 @@ def hasil(OK,cp):
 	    sarfraz()
 
 def sarfraz():
-    if 1 in fuck:
-        os.system('#')
-    else:
-        os.system("clear")
-        print ("\x1b[1;91mFuck Your Bypass System - Security By BNS Team")
-        exit()
+
+
+
+
+        
+  
     os.system('clear')
     print(logo)
     ipm = requests.get(url_ip).json()
